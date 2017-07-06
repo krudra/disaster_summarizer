@@ -1,0 +1,5 @@
+<date>			<tweet id>		<user id>	<text>								<situational = 1>	<classifier confidence score>
+2013-02-21 13:51:10	30458*************	231***		Reports of explosion from busy commercial area in Hyderabad .	1	0.880699426993
+.
+.
+.

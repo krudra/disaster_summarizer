@@ -1,0 +1,5 @@
+<tweet id>	<corresponding line number>	<number of words to be present in summary>
+<tweet id>	<corresponding line number>	<number of words to be present in summary>
+.
+.
+.
